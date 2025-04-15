@@ -106,7 +106,7 @@ https://example.com/bk/data/example123/13fc...6338.bin
 |-----------------|------------|---------------------|--------------|
 | stage{num}      |            | ステージ定義データ    | stage0.bin  |
 | img_{type}{num} | `fg`, `bg` | 画像リソース         | img_fg0.bin  |
-| clear{num}      |            | クリア特典データ      | clear0.bin  |
+| clear_image{num}|            | クリア特典データ      | clear0.bin  |
 
 ## 実践的解析手法
 
