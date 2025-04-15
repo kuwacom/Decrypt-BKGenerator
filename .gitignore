@@ -4,3 +4,12 @@
 # Images
 *.png
 *.json
+
+# Python garbage files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
